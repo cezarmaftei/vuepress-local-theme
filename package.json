@@ -1,0 +1,15 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "cez",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.35"
+  }
+}
